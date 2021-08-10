@@ -3,7 +3,7 @@
 A simple Form for practices, in which I learn basic html css.
 
 ##How to run the web.
-1. Go to the link [in my web](https://jorgegso.github.io/landingPage/).
+1. Go to the link [in my web]().
 2. that's it.
 
 or 
@@ -14,9 +14,5 @@ or
 4. that's it.
 
 ## What the web looks like
-![image](https://user-images.githubusercontent.com/63064991/127073496-b0ee3a02-843f-4b51-9328-d98a5ff5a0fd.png)
-
-![image](https://user-images.githubusercontent.com/63064991/127073517-f1a19bea-24d4-4651-b7bd-106cfcaa3a96.png)
-
-![image](https://user-images.githubusercontent.com/63064991/127073533-cb2c2a10-a58f-4247-a08d-3266a904ae3b.png)
-
+![image](https://user-images.githubusercontent.com/63064991/128811020-8d78b941-d6f4-4e98-b5c8-f9cdf63e1453.png)
+![image](https://user-images.githubusercontent.com/63064991/128811072-4579d2eb-2efa-4bbb-99d1-d215d375ea3c.png)
