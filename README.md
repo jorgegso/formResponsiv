@@ -1,4 +1,4 @@
-# A simple web  
+# A simple form  
 
 A simple Form for practices, in which I learn basic html css.
 
