@@ -3,7 +3,7 @@
 A simple Form for practices, in which I learn basic html css.
 
 ##How to run the web.
-1. Go to the link [in my web](https://jorgegso.github.io/formResponsiv/).
+1. Go to the link [in this web](https://jorgegso.github.io/formResponsiv/).
 2. that's it.
 
 or 
