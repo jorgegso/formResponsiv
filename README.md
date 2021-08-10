@@ -15,4 +15,5 @@ or
 
 ## What the web looks like
 ![image](https://user-images.githubusercontent.com/63064991/128811020-8d78b941-d6f4-4e98-b5c8-f9cdf63e1453.png)
-![image](https://user-images.githubusercontent.com/63064991/128811072-4579d2eb-2efa-4bbb-99d1-d215d375ea3c.png)
+![image](https://user-images.githubusercontent.com/63064991/128811199-3f154267-5e37-46e3-90c3-f25215a6705d.png)
+
